@@ -22,7 +22,8 @@ Each project leverages Excel's functionality, such as pivot tables, charts, and 
    
 ## Student Mental Health Analysis
 ## Project Overview
-This project explores the mental health conditions among university students, focusing on key factors such as based on factors like CGPA, gender, marital status, year of study, and course of study.
+This project explores the mental health conditions among university students, focusing on key factors such as based on factors like CGPA, gender, 
+marital status, year of study, and course of study.
 The goal is to identify trends and provide insights into the distribution of mental health conditions like depression, anxiety, and panic attacks.
 
 ## Dataset
@@ -50,7 +51,7 @@ Some of the key insights from the analysis include:
 - First-year students showed higher vulnerability to anxiety and depression, likely due to academic and social adjustments.
 - Only 6% of students sought medical treatment, indicating a potential gap in mental health awareness or access to resources.
   
-## How to Run the Project
+## How_to_Run_the_Project
 Files: The Excel file containing the dataset is available in the repository. 
 Here's the link to the analysis: https://yjglp-my.sharepoint.com/:x:/g/personal/thelma_yjglp_onmicrosoft_com/EZdQQQTZ5uJBgxdCFybUeekBNzV1bCik2KCsObo6bzxD9w
 Instructions: Open the project file file in Excel to view the dashboard and explore the analysis, visualizations and pivot tables. 
