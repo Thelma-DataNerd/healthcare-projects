@@ -53,7 +53,7 @@ Some of the key insights from the analysis include:
   
 ## How_to_Run_the_Project
 - Files: The Excel file containing the dataset is available in the repository. 
-- Here's the link to the analysis: https://yjglp-my.sharepoint.com/:x:/g/personal/thelma_yjglp_onmicrosoft_com/EZdQQQTZ5uJBgxdCFybUeekBNzV1bCik2KCsObo6bzxD9w
+- Here's the link to the analysis: https://1drv.ms/x/s!Ak_pcXse6Y4UbxDaiIJlMR0znhw?e=JbqIb0
 - Instructions: Open the project file file in Excel to view the dashboard and explore the analysis, visualizations and pivot tables. 
 
 ## Conclusion
