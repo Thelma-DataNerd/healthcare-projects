@@ -3,7 +3,6 @@
 ### Table of Contents
 - [Overview](#overview)
 - [Student Mental Health Analysis](#student-mental-health-analysis)
-- [Data Source](#data-source)
 
 
 ### Overview
@@ -27,6 +26,5 @@ This project explores the mental health conditions among university students, fo
   * Only 6% of students sought medical treatment, indicating a potential gap in mental health awareness or access to resources.
   
 - Project Link: https://1drv.ms/x/s!Ak_pcXse6Y4UbxDaiIJlMR0znhw?e=JbqIb0
-  
-### Data Source: https://github.com/Thelma-DataNerd/healthcare_projects/blob/main/Student%20Mental%20health.csv
+- Data Source: https://github.com/Thelma-DataNerd/healthcare_projects/blob/main/Student%20Mental%20health.csv
 
