@@ -2,8 +2,8 @@
 
 ### Table of Contents
 - [Overview](#overview)
-- [Student Mental Health Analysis](#student_mental_health_analysis)
-- [Data Source](#data_source)
+- [Student Mental Health Analysis](#student-mental-health-analysis)
+- [Data Source](#data-source)
 
 
 ### Overview
