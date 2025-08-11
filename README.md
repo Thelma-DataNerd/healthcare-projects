@@ -11,11 +11,11 @@ This repository showcases my projects in the healthcare sector, where I leverage
 ---
 
 ### Student Mental Health Analysis
-This project explores the mental health conditions among university students, focusing on key factors based on factors like CGPA, gender, marital status, year of study, and course of study.
+This project explores the mental health conditions among university students, focusing on key factors based on factors as CGPA, gender, marital status, year of study, and course of study.
 - Objectives: The goal is to identify trends and provide insights into the distribution of mental health conditions like depression, anxiety, and panic attacks.
-- Content: The dataset consists of various attributes relevant to students' mental health:timestamp, gender, age, course of study, year of study, CGPA, marital status, depression/anxiety/panic attack, specialist treatment.
+- Content: The dataset consists of various attributes relevant to students' mental health: timestamp, gender, age, course of study, year of study, CGPA, marital status, depression/anxiety/panic attack, and specialist treatment.
 - Tools: Microsoft Excel
-- Techniques: Data cleaning and preparation, analysis, visualization, insights and recommendation
+- Techniques: Data cleaning and preparation, analysis, visualization, insights, and recommendations
 
   <img src="https://github.com/Thelma-DataNerd/data_analysis_projects_using_excel/blob/main/Dashboard.png" width="500"/>
   
